@@ -52,3 +52,7 @@
   animation: hideSplashScreen 0.3s ease-in-out forwards;
   animation-delay: 2s;
 }
+
+.splash-screen__span {
+  font-size: 40px;
+}
